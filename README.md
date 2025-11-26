@@ -1,10 +1,10 @@
 # P05: Reduction & Collectives
 
-**Course:** CISC-709 - Contemporary Computing Systems Programming (CCSP)
-**Assignment:** P05 - REDUCE & Collectives
-**Topic:** Associativity, Tree vs. Warp Reductions, Shuffles/Atomics; NCCL
-**Author:** Kenneth Peter Fernandes
-**Date:** November 26, 2025
+**Course:** CISC-709 - Contemporary Computing Systems Programming (CCSP)  
+**Assignment:** P05 - REDUCE & Collectives  
+**Topic:** Associativity, Tree vs. Warp Reductions, Shuffles/Atomics; NCCL  
+**Author:** Kenneth Peter Fernandes  
+**Date:** November 26, 2025  
 
 ---
 
